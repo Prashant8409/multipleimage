@@ -45,7 +45,7 @@ export const products: Product[] = [
   {
     id: "1",
     title: "iPhone 14 Pro Max 256GB",
-    price: 2500000,
+    price: 250000,
     location: "Dar es Salaam",
     images: [
       "https://images.unsplash.com/photo-1678685888221-cda773a3dcdb?w=400&h=400&fit=crop",
@@ -59,7 +59,7 @@ export const products: Product[] = [
   {
     id: "2",
     title: "Samsung Galaxy S23 Ultra",
-    price: 1800000,
+    price: 180000,
     location: "Arusha",
     images: [
       "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=400&h=400&fit=crop",
