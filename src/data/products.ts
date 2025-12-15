@@ -76,9 +76,9 @@ export const products: Product[] = [
     price: 150000,
     location: "Dar es Salaam",
     images: [
-      "https://tmpfiles.org/dl/15531809/7279808_nziwltg5ms1jowy5ymuzmwq1.webp",
-      "http://tmpfiles.org/dl/15531880/7279806_nziwltg5nc0ymzi3njc5mdkz.webp",
-      "http://tmpfiles.org/dl/15531880/7279806_nziwltg5nc0ymzi3njc5mdkz.webp",
+      "https://pictures-tanzania.jijistatic.com/7279806_NzIwLTg5NC0yMzI3Njc5MDkz.webp",
+      "https://pictures-tanzania.jijistatic.com/7279808_NzIwLTg5MS1jOWY5YmUzMWQ1.webp",
+      "https://pictures-tanzania.jijistatic.com/7279808_NzIwLTg5MS1jOWY5YmUzMWQ1.webp",
     ],
   description: `2 years warranty full boxed and free protector and cover offers.
 We only sell original items.
@@ -95,9 +95,9 @@ Tunakopesha pia.`,
     price: 400000,
     location: "Mwanza",
     images: [
-      "https://tmpfiles.org/dl/15532434/8676604_mtywmc0ymtm0lwm3owqyyju3yjk.webp",
-      "https://tmpfiles.org/dl/15532389/8676599_mtywmc0ymtm0ltrkmmmwmza2zjc.webp",
-      "https://tmpfiles.org/dl/15532350/8676600_mtywmc0ymtm0ltnknzziytq3yja.webp",
+      "https://pictures-tanzania.jijistatic.com/8405926_MTA4MC0xNDQwLTkyOGZlNGU3YzA.webp",
+      "https://pictures-tanzania.jijistatic.com/8405924_MzAwLTQwMC0yNTU2NzMxZDMx.webp",
+      "https://pictures-tanzania.jijistatic.com/8405928_MzAwLTQwMC1mYTdkZDBkYjE4.webp",
     ],
     description: "Brand new 17promax \ngb512 \navailable",
     category: "mobile-phone",
