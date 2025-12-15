@@ -92,7 +92,7 @@ Tunakopesha pia.`,
   {
     id: "4",
     title: "New Apple iPhone 17 Pro Max 512 GB Silver",
-    price: 1800000,
+    price: 360000,
     location: "Mwanza",
     images: [
       "https://tmpfiles.org/dl/15532434/8676604_mtywmc0ymtm0lwm3owqyyju3yjk.webp",
