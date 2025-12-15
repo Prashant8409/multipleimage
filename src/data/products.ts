@@ -80,8 +80,12 @@ export const products: Product[] = [
       "http://tmpfiles.org/dl/15531880/7279806_nziwltg5nc0ymzi3njc5mdkz.webp",
       "http://tmpfiles.org/dl/15531880/7279806_nziwltg5nc0ymzi3njc5mdkz.webp",
     ],
-    description: "2 years warranty fullboxed and free protector and cover offers we only sell original items items and for wholesale prices please contact us through WhatsApp NUMBER as soon as you saw our advertisement on the website TUNATUMA MIKOAN MIKOAN BURE TUNATUMA WAHI SASA tunakopesha pia
-.",
+  description: `2 years warranty full boxed and free protector and cover offers.
+We only sell original items.
+For wholesale prices please contact us through WhatsApp.
+TUNATUMA MIKOAN MIKOAN BURE.
+TUNATUMA WAHI SASA.
+Tunakopesha pia.`,
     category: "laptops",
     purchaseLink: "https://example.com/buy/macbook-pro",
   },
