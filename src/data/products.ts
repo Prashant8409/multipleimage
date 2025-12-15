@@ -72,15 +72,16 @@ export const products: Product[] = [
   },
   {
     id: "3",
-    title: "MacBook Pro 14\" M3 Pro",
-    price: 4500000,
+    title: "New Samsung Galaxy S23 128 GB White",
+    price: 830000,
     location: "Dar es Salaam",
     images: [
-      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=400&fit=crop",
-      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=400&h=400&fit=crop",
-      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400&h=400&fit=crop",
+      "https://tmpfiles.org/dl/15531809/7279808_nziwltg5ms1jowy5ymuzmwq1.webp",
+      "http://tmpfiles.org/dl/15531880/7279806_nziwltg5nc0ymzi3njc5mdkz.webp",
+      "http://tmpfiles.org/dl/15531880/7279806_nziwltg5nc0ymzi3njc5mdkz.webp",
     ],
-    description: "Apple MacBook Pro 14-inch with M3 Pro chip. 18GB RAM, 512GB SSD. Space Gray. Excellent for professionals.",
+    description: "2 years warranty fullboxed and free protector and cover offers we only sell original items items and for wholesale prices please contact us through WhatsApp NUMBER as soon as you saw our advertisement on the website TUNATUMA MIKOAN MIKOAN BURE TUNATUMA WAHI SASA tunakopesha pia
+.",
     category: "laptops",
     purchaseLink: "https://example.com/buy/macbook-pro",
   },
