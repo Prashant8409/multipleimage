@@ -120,7 +120,7 @@ Tunakopesha pia.`,
   {
     id: "6",
     title: "Apple iPhone 12 Pro Max 128 GB Silver",
-    price: 650000,
+    price: 100000,
     location: "Dar es Salaam",
     images: [
       "https://i.ibb.co/3y7RM5jX/6908982-MTYw-MC0y-MTM0-LTE2-Nz-Uy-MGQz-ZTU.webp",
@@ -247,7 +247,7 @@ Tunakopesha pia.`,
   {
     id: "15",
     title: "Nintendo Switch OLED",
-    price: 780000,
+    price: 115000,
     location: "Tabora",
     images: [
       "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?w=400&h=400&fit=crop",
